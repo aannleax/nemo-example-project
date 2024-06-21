@@ -13,3 +13,8 @@ nemo = { git = "https://github.com/knowsys/nemo" }
 ```
 
 Then simply compile with `cargo build -r`
+
+To see the output of this example:
+```
+cargo run -- datalog/program.rls
+```
