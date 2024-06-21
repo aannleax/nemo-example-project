@@ -1,6 +1,3 @@
 @import data :- csv { resource = "datalog/data.csv" } .
 
 result(?x, ?y) :- data(?x, ?z), data(?z, ?y) .
-write(?y, ?x) :- result(?y, ?x) .
-
-@export result :- csv { resource = "datalog/results/result.csv" } .
