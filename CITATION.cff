@@ -90,8 +90,8 @@ preferred-citation:
     location: Hanoi
     alias: KR
     website: 'https://kr.org/KR2024/'
-  booktitle: 'Proceedings of the 21st International Conference on Principles of Knowledge Representation and Reasoning (KR 2024)'
-  series: 'Proceedings of the International Conference on Principles of Knowledge Representation and Reasoning'
-  publisher: 'International Joint Conferences on Artificial Intelligence Organization'
-  volume: 21
+    booktitle: 'Proceedings of the 21st International Conference on Principles of Knowledge Representation and Reasoning (KR 2024)'
+    series: 'Proceedings of the International Conference on Principles of Knowledge Representation and Reasoning'
+    publisher: 'International Joint Conferences on Artificial Intelligence Organization'
+    volume: 21
   year: 2024
