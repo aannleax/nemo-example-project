@@ -83,7 +83,7 @@ preferred-citation:
     email: markus.kroetzsch@tu-dresden.de
     affiliation: 'Knowledge-Based Systems, TU Dresden'
     orcid: 'https://orcid.org/0000-0002-9172-2601'
-  title: "Nemo: Your Friendly and Versatile Rule Reasoning Toolkit"
+  title: 'Nemo: Your Friendly and Versatile Rule Reasoning Toolkit'
   type: conference
   conference:
     name: 21st International Conference on Principles of Knowledge Representation and Reasoning
